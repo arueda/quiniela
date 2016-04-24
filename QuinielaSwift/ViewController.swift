@@ -13,6 +13,17 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        let webService = QUWebService()
+        
+        webService.getTournamentList { (error, tournaments) in
+            if error == nil{
+                print(tournaments)
+            }else{
+                print(error)
+            }
+            
+            
+        }
     }
 
     override func didReceiveMemoryWarning() {
