@@ -1,4 +1,2 @@
 # quiniela
-Football pools application
-
-Simple iOS App for Footbal Pools using Swift
+Aplicación para quinielas de futbol para iOS y Android usando Firebase como backend.
