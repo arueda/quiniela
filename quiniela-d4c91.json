@@ -1,0 +1,142 @@
+{
+  "encuentros" : {
+    "17ligacj1e1" : {
+      "fecha" : "2017-01-06T21:00-06:00",
+      "local" : "mxf16",
+      "resultado" : "17ligacj1r1",
+      "visitante" : "mxf9"
+    }
+  },
+  "equipos" : {
+    "mxf1" : {
+      "logo" : "pending",
+      "nombre" : "Guadalajara",
+      "sede" : "Estadio Chivas, Zapopan, Jalisco"
+    },
+    "mxf10" : {
+      "logo" : "pending",
+      "nombre" : "Morelia",
+      "sede" : "Estadio José María Morelos y Pavón, Morelia, Michoacán"
+    },
+    "mxf11" : {
+      "logo" : "pending",
+      "nombre" : "Jaguares",
+      "sede" : "Estadio Victor Manuel Reyna, Tuxtla Gutiérrez, Chiapas"
+    },
+    "mxf12" : {
+      "logo" : "pending",
+      "nombre" : "UANL",
+      "sede" : "Estadio Universitario, San Nicolás de los Garza, Nuevo León"
+    },
+    "mxf13" : {
+      "logo" : "pending",
+      "nombre" : "América",
+      "sede" : "Estadio Azteca, Ciudad de México"
+    },
+    "mxf14" : {
+      "logo" : "pending",
+      "nombre" : "Cruz Azul",
+      "sede" : "Estadio Azul, Ciudad de México"
+    },
+    "mxf15" : {
+      "logo" : "pending",
+      "nombre" : "Puebla",
+      "sede" : "Estadio Cuauhtémoc, Puebla, Puebla"
+    },
+    "mxf16" : {
+      "logo" : "pending",
+      "nombre" : "Veracruz",
+      "sede" : "Estadio Luis Pirata Fuente, Boca del Río, Veracruz,"
+    },
+    "mxf17" : {
+      "logo" : "pending",
+      "nombre" : "Necaxa",
+      "sede" : "Estadio Victoria, Aguascalientes, Aguascalientes"
+    },
+    "mxf18" : {
+      "logo" : "pending",
+      "nombre" : "León",
+      "sede" : "Estadio Nou Camp, León, Guanajuato"
+    },
+    "mxf2" : {
+      "logo" : "pending",
+      "nombre" : "Pachuca",
+      "sede" : "Estadio Hidalgo, Pachuca de Soto, Hidalgo"
+    },
+    "mxf3" : {
+      "logo" : "pending",
+      "nombre" : "Tijuana",
+      "sede" : "Estadio Caliente, Tijuana, Baja California"
+    },
+    "mxf4" : {
+      "logo" : "pending",
+      "nombre" : "Monterrey",
+      "sede" : "Estadio BBVA Bancomer, Guadalupe, Nuevo León"
+    },
+    "mxf5" : {
+      "logo" : "pending",
+      "nombre" : "Toluca",
+      "sede" : "Estadio Nemesio Diez, Toluca, Estado de México"
+    },
+    "mxf6" : {
+      "logo" : "pending",
+      "nombre" : "Atlas",
+      "sede" : "Estadio Jalisco, Guadalajara, Jalisco"
+    },
+    "mxf7" : {
+      "logo" : "pending",
+      "nombre" : "UNAM",
+      "sede" : "Estadio Olímpico Universitario, Ciudad de México"
+    },
+    "mxf8" : {
+      "logo" : "pending",
+      "nombre" : "Santos Laguna",
+      "sede" : "Estadio TSM Corona, Torreón, Coahuila"
+    },
+    "mxf9" : {
+      "logo" : "pending",
+      "nombre" : "Querétaro",
+      "sede" : "Estadio La Corregidora, Santiago de Querétaro, Querétaro"
+    }
+  },
+  "jornadas" : {
+    "17ligacj1" : {
+      "17ligacj1e1" : true
+    }
+  },
+  "resultados" : {
+    "17ligacj1r1" : {
+      "ganador" : "L",
+      "marcador" : "1-0"
+    }
+  },
+  "torneos" : {
+    "17ligac" : {
+      "cierre" : "2017-01-06T00:00-06:00",
+      "equipos" : {
+        "mxf1" : true,
+        "mxf10" : true,
+        "mxf11" : true,
+        "mxf12" : true,
+        "mxf13" : true,
+        "mxf14" : true,
+        "mxf15" : true,
+        "mxf16" : true,
+        "mxf17" : true,
+        "mxf2" : true,
+        "mxf3" : true,
+        "mxf4" : true,
+        "mxf5" : true,
+        "mxf6" : true,
+        "mxf7" : true,
+        "mxf8" : true,
+        "mxf9" : true
+      },
+      "inicio" : "2017-05-28T00:00-06:00",
+      "jornadas" : {
+        "17ligacj1" : true
+      },
+      "nombre" : "Apertura MX"
+    }
+  }
+}
