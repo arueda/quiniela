@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "842885982971",
+    "firebase_url": "https://quiniela-5a545.firebaseio.com",
+    "project_id": "quiniela-5a545",
+    "storage_bucket": "quiniela-5a545.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842885982971:android:d3910c76883ef3bb",
+        "android_client_info": {
+          "package_name": "com.example.morningstar.quiniela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842885982971-r88ddq5rfomlku3g5usaoefmdafvflof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.morningstar.quiniela",
+            "certificate_hash": "a0c2df96cea01d848d69b3e31ce77d12f9a4090a"
+          }
+        },
+        {
+          "client_id": "842885982971-6j6omf0ue6d32t7hs366i45tfk0kml6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Zb0UhyWnVhqtIoYVlT3_eQSKUADBVos"
+        },
+        {
+          "current_key": "AIzaSyC2-znAzriV8wSJHV-gXwa_0_CSj-vVSqY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842885982971-6j6omf0ue6d32t7hs366i45tfk0kml6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
